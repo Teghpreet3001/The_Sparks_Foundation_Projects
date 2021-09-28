@@ -14,4 +14,4 @@ Implement an image color detector which identifies all the colors in an image or
 
 ### 2. Libraries and Features
 
-For this project, we will import pandas as pd, numpy as np, matplotlib.pyplot as plt, seaborn as sns, warnings, sklearn and sklearn.ensemble from RandomForestRegressor
+For this project, We need sklearn for KMeans algorithm, matplotlib.pyplot for plotting graphs, numpy to work with arrays, cv2 to work with image data, collections to use Counter to count values, rgb2lab to convert RGB values and deltaE_cie76 to calculate similarity between colors
