@@ -2,7 +2,7 @@
 
 ## The Sparks Foundation
 
-### GRIP Septemer 2021 Batch
+### GRIP January 2022 Batch
 
 ### Author: Teghpreet Singh Mago
 
