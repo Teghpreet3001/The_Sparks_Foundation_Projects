@@ -44,7 +44,7 @@ If we can successfully express the data in the form of graphs and plots and deri
 ### 4. Libraries and Features 
 For this project, we will import pandas as pd, numpy as np, matplotlib.pyplot as plt, seaborn as sns, warnings.
 
-### Task 4 : Perform Exploratory Data Analysis on Global Terrorism dataset
+## Project 4 : Perform Exploratory Data Analysis on Global Terrorism dataset
 
 ### 1. Problem defintion
 As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA?
