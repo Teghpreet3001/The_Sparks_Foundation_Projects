@@ -1,14 +1,10 @@
 # The Sparks Foundation Projects
 
-# The Sparks Foundation Task 1
+## GRIP Septemer 2021 Batch
 
-## The Sparks Foundation
+## Author: Teghpreet Singh Mago
 
-### GRIP Septemer 2021 Batch
-
-### Author: Teghpreet Singh Mago
-
-### Task 1 : Prediction using Supervised Machine Learning
+## Project 1 : Prediction using Supervised Machine Learning
 
 ### 1. Problem defintion
 
