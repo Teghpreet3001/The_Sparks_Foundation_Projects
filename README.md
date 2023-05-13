@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# The_Sparks_Foundation_Projects
-=======
+# The Sparks Foundation Projects
+
 # The Sparks Foundation Task 1
 
 ## The Sparks Foundation
