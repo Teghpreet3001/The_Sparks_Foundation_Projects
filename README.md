@@ -1,8 +1,9 @@
 # The Sparks Foundation Projects
 
-### Graduate Rotational Internship Program (GRIP)
-### August 2021 to October 2021
-### Author: Teghpreet Singh Mago
+#### Graduate Rotational Internship Program (GRIP)
+#### Data Science and Business Analytics Internship
+#### August 2021 to October 2021
+#### Author: Teghpreet Singh Mago
 
 ## Project 1 : Prediction using Supervised Machine Learning
 
