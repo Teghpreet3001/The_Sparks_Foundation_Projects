@@ -21,4 +21,3 @@ If we can reach 95% accuracy at predicting, we'll be successful at the project.
 ### 4. Libraries and Features
 
 For this project, we will import pandas as pd, numpy as np, matplotlib.pyplot as plt, seaborn as sns, warnings, sklearn and sklearn.ensemble from RandomForestRegressor
->>>>>>> The_Sparks_Foundation_Task_1/main
