@@ -39,3 +39,20 @@ The application can also be used to plot the colours in an image into a pie char
 Using this application, one can also input a valid location of an image folder and classify different images by colour.(The image folder that we entered here was nature)
 
 To classify images based on their colours, we have created a dictionary COLORS and used the hexcodes of four basic/primary colurs: RED, BLUE, GREEN, YELLOW. We can also use other secondary colours by extracting their hexcodes. 
+
+## Project 3 : Exploratory Data Analysis on US Retail Sales dataset 
+
+### 1. Problem defintion
+● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+● As a business manager, try to find out the weak areas where you can work to make more profit.
+● What all business problems you can derive by exploring the data?
+
+### 2. Dataset Source
+Data can be found at https://bit.ly/3i4rbWI
+
+### 3. Evaluation
+If we can successfully express the data in the form of graphs and plots and derive appropriate conclusions, we'll be successful at the project.
+
+### 4. Libraries and Features 
+For this project, we will import pandas as pd, numpy as np, matplotlib.pyplot as plt, seaborn as sns, warnings.
+
